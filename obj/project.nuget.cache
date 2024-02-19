@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "dgSpecHash": "3yl2VQhCbRPFTthPSxif0E7C3m1DuKdwojevDL4fvxi2sPgNAKIP5nY3KZOH3KkYX8NABV/Csw5vUEFgDThopQ==",
+  "success": false,
+  "projectFilePath": "G:\\Town Of Crew Shark Of Sea\\TOCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\17701038558\\.nuget\\packages\\gitinfo\\2.3.0\\gitinfo.2.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "找不到包 BepInEx.IL2CPP.MSBuild。源 Microsoft Visual Studio Offline Packages, nuget.org 中不存在具有此 ID 的包",
+      "libraryId": "BepInEx.IL2CPP.MSBuild",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "找不到包 BepInEx.Unity.IL2CPP。源 Microsoft Visual Studio Offline Packages, nuget.org 中不存在具有此 ID 的包",
+      "libraryId": "BepInEx.Unity.IL2CPP",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "找不到包 AmongUs.GameLibs.Steam。源 Microsoft Visual Studio Offline Packages, nuget.org 中不存在具有此 ID 的包",
+      "libraryId": "AmongUs.GameLibs.Steam",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
